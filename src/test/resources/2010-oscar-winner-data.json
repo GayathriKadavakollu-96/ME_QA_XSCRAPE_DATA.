@@ -1,0 +1,36 @@
+[ {
+  "isWinner" : "true",
+  "Nominations" : 12,
+  "Awards" : 4,
+  "Year" : "2010",
+  "movieTitle" : "The King's Speech",
+  "epochTime" : 1733414312
+}, {
+  "isWinner" : "false",
+  "Nominations" : 8,
+  "Awards" : 4,
+  "Year" : "2010",
+  "movieTitle" : "Inception",
+  "epochTime" : 1733414312
+}, {
+  "isWinner" : "false",
+  "Nominations" : 8,
+  "Awards" : 3,
+  "Year" : "2010",
+  "movieTitle" : "The Social Network",
+  "epochTime" : 1733414312
+}, {
+  "isWinner" : "false",
+  "Nominations" : 7,
+  "Awards" : 2,
+  "Year" : "2010",
+  "movieTitle" : "The Fighter",
+  "epochTime" : 1733414312
+}, {
+  "isWinner" : "false",
+  "Nominations" : 5,
+  "Awards" : 2,
+  "Year" : "2010",
+  "movieTitle" : "Toy Story 3",
+  "epochTime" : 1733414312
+} ]

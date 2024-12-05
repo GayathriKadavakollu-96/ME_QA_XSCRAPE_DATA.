@@ -1,0 +1,36 @@
+[ {
+  "isWinner" : "true",
+  "Nominations" : 9,
+  "Awards" : 3,
+  "Year" : "2013",
+  "movieTitle" : "12 Years a Slave",
+  "epochTime" : 1733414305
+}, {
+  "isWinner" : "false",
+  "Nominations" : 10,
+  "Awards" : 7,
+  "Year" : "2013",
+  "movieTitle" : "Gravity",
+  "epochTime" : 1733414305
+}, {
+  "isWinner" : "false",
+  "Nominations" : 6,
+  "Awards" : 3,
+  "Year" : "2013",
+  "movieTitle" : "Dallas Buyers Club",
+  "epochTime" : 1733414305
+}, {
+  "isWinner" : "false",
+  "Nominations" : 2,
+  "Awards" : 2,
+  "Year" : "2013",
+  "movieTitle" : "Frozen",
+  "epochTime" : 1733414305
+}, {
+  "isWinner" : "false",
+  "Nominations" : 2,
+  "Awards" : 2,
+  "Year" : "2013",
+  "movieTitle" : "The Great Gatsby",
+  "epochTime" : 1733414305
+} ]

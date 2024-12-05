@@ -1,0 +1,36 @@
+[ {
+  "isWinner" : "true",
+  "Nominations" : 10,
+  "Awards" : 5,
+  "Year" : "2011",
+  "movieTitle" : "The Artist",
+  "epochTime" : 1733414310
+}, {
+  "isWinner" : "false",
+  "Nominations" : 11,
+  "Awards" : 5,
+  "Year" : "2011",
+  "movieTitle" : "Hugo",
+  "epochTime" : 1733414310
+}, {
+  "isWinner" : "false",
+  "Nominations" : 2,
+  "Awards" : 2,
+  "Year" : "2011",
+  "movieTitle" : "The Iron Lady",
+  "epochTime" : 1733414310
+}, {
+  "isWinner" : "false",
+  "Nominations" : 5,
+  "Awards" : 1,
+  "Year" : "2011",
+  "movieTitle" : "The Descendants",
+  "epochTime" : 1733414310
+}, {
+  "isWinner" : "false",
+  "Nominations" : 5,
+  "Awards" : 1,
+  "Year" : "2011",
+  "movieTitle" : "The Girl with the Dragon Tattoo",
+  "epochTime" : 1733414310
+} ]

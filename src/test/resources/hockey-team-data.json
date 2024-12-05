@@ -1,0 +1,151 @@
+[ {
+  "teamName" : "Buffalo Sabres",
+  "Year" : 1990,
+  "epochTime" : 1733414267,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Hartford Whalers",
+  "Year" : 1990,
+  "epochTime" : 1733414267,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Minnesota North Stars",
+  "Year" : 1990,
+  "epochTime" : 1733414268,
+  "winPercentage" : 0.338
+}, {
+  "teamName" : "New York Islanders",
+  "Year" : 1990,
+  "epochTime" : 1733414268,
+  "winPercentage" : 0.312
+}, {
+  "teamName" : "Quebec Nordiques",
+  "Year" : 1990,
+  "epochTime" : 1733414268,
+  "winPercentage" : 0.2
+}, {
+  "teamName" : "Toronto Maple Leafs",
+  "Year" : 1990,
+  "epochTime" : 1733414268,
+  "winPercentage" : 0.287
+}, {
+  "teamName" : "Vancouver Canucks",
+  "Year" : 1990,
+  "epochTime" : 1733414268,
+  "winPercentage" : 0.35
+}, {
+  "teamName" : "Winnipeg Jets",
+  "Year" : 1990,
+  "epochTime" : 1733414268,
+  "winPercentage" : 0.325
+}, {
+  "teamName" : "Buffalo Sabres",
+  "Year" : 1991,
+  "epochTime" : 1733414268,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Calgary Flames",
+  "Year" : 1991,
+  "epochTime" : 1733414268,
+  "winPercentage" : 0.388
+}, {
+  "teamName" : "Hartford Whalers",
+  "Year" : 1991,
+  "epochTime" : 1733414275,
+  "winPercentage" : 0.325
+}, {
+  "teamName" : "Quebec Nordiques",
+  "Year" : 1991,
+  "epochTime" : 1733414276,
+  "winPercentage" : 0.25
+}, {
+  "teamName" : "San Jose Sharks",
+  "Year" : 1991,
+  "epochTime" : 1733414276,
+  "winPercentage" : 0.212
+}, {
+  "teamName" : "Toronto Maple Leafs",
+  "Year" : 1991,
+  "epochTime" : 1733414276,
+  "winPercentage" : 0.375
+}, {
+  "teamName" : "Edmonton Oilers",
+  "Year" : 1992,
+  "epochTime" : 1733414276,
+  "winPercentage" : 0.31
+}, {
+  "teamName" : "Hartford Whalers",
+  "Year" : 1992,
+  "epochTime" : 1733414276,
+  "winPercentage" : 0.31
+}, {
+  "teamName" : "Ottawa Senators",
+  "Year" : 1992,
+  "epochTime" : 1733414283,
+  "winPercentage" : 0.119
+}, {
+  "teamName" : "San Jose Sharks",
+  "Year" : 1992,
+  "epochTime" : 1733414283,
+  "winPercentage" : 0.131
+}, {
+  "teamName" : "Tampa Bay Lightning",
+  "Year" : 1992,
+  "epochTime" : 1733414283,
+  "winPercentage" : 0.274
+}, {
+  "teamName" : "Mighty Ducks of Anaheim",
+  "Year" : 1993,
+  "epochTime" : 1733414283,
+  "winPercentage" : 0.393
+}, {
+  "teamName" : "Edmonton Oilers",
+  "Year" : 1993,
+  "epochTime" : 1733414284,
+  "winPercentage" : 0.298
+}, {
+  "teamName" : "Florida Panthers",
+  "Year" : 1993,
+  "epochTime" : 1733414290,
+  "winPercentage" : 0.393
+}, {
+  "teamName" : "Hartford Whalers",
+  "Year" : 1993,
+  "epochTime" : 1733414290,
+  "winPercentage" : 0.321
+}, {
+  "teamName" : "Los Angeles Kings",
+  "Year" : 1993,
+  "epochTime" : 1733414290,
+  "winPercentage" : 0.321
+}, {
+  "teamName" : "Ottawa Senators",
+  "Year" : 1993,
+  "epochTime" : 1733414291,
+  "winPercentage" : 0.167
+}, {
+  "teamName" : "San Jose Sharks",
+  "Year" : 1993,
+  "epochTime" : 1733414291,
+  "winPercentage" : 0.393
+}, {
+  "teamName" : "Tampa Bay Lightning",
+  "Year" : 1993,
+  "epochTime" : 1733414291,
+  "winPercentage" : 0.357
+}, {
+  "teamName" : "Winnipeg Jets",
+  "Year" : 1993,
+  "epochTime" : 1733414291,
+  "winPercentage" : 0.286
+}, {
+  "teamName" : "Mighty Ducks of Anaheim",
+  "Year" : 1994,
+  "epochTime" : 1733414291,
+  "winPercentage" : 0.333
+}, {
+  "teamName" : "Dallas Stars",
+  "Year" : 1994,
+  "epochTime" : 1733414291,
+  "winPercentage" : 0.354
+} ]
